@@ -46,7 +46,7 @@ This project taught me the fundamentals of HTML, CSS, and the importance of a st
 
 ## 🖼️ Live Demo & Screenshots
 
-You can view a live demo of the website here: **[GitHub Pages Link]**
+You can view a live demo of the website here: **[https://heskal.github.io/Donutopia-Website-Project/]**
 
 **Home Page**
 ![Screenshot of the Home Page](https://github.com/HesKal/Donutopia-Website-Project/blob/main/homepage.png)
